@@ -1,0 +1,17 @@
+{
+    "name": "ashish/my-package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ashish\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "queensherainfotech",
+            "email": "queensherainfotech@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
